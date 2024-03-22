@@ -1,3 +1,10 @@
+/*
+Integrantes:
+
+    - Jose Canto
+    - Valentin Pecqueaux
+ */
+
 package clubdeportivo;
 
 import org.junit.jupiter.api.BeforeEach;
