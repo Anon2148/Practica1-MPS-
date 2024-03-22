@@ -4,7 +4,7 @@ import java.util.StringJoiner;
 
 public class ClubDeportivo {
 	private String nombre;
-	private int ngrupos;
+	private int ngrupos = 0;
 	private Grupo[] grupos;
 	private static final int TAM = 10;
 
