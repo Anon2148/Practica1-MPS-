@@ -2,7 +2,7 @@
 Integrantes:
 
     - Jose Canto
-    - Valentin Pecqueaux
+    - Valentin Pecqueux
  */
 
 package clubdeportivo;
